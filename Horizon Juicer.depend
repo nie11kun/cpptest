@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1526269306 source:c:\users\hj_nk\documents\github\c-plus-plus-test\horizon juicer\main.cpp
+	<iostream>
+
+1526280079 source:c:\users\hj_nk\documents\github\c-plus-plus-test\horizon juicer\strwork.cpp
+	"StrWork.h"
+	<string>
+
+1526279519 c:\users\hj_nk\documents\github\c-plus-plus-test\horizon juicer\strwork.h
+	<string>
+
+1526277152 source:c:\users\hj_nk\documents\github\c-plus-plus-test\horizon juicer\filework.cpp
+	"FileWork.h"
+
+1526277152 c:\users\hj_nk\documents\github\c-plus-plus-test\horizon juicer\filework.h
+	<string>
+
